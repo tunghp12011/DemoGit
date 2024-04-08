@@ -16,6 +16,6 @@ if (mysqli_query($conn, $themsql))
 {
     //in thông báo thành công
     //echo "<h1> Thêm thành công</h1>";
-    //trở về trang liệt kê
+    //trở về trang liệt kêasdasdassadjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
     header("Location: lietke.php");
 }
